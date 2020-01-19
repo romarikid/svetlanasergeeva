@@ -1,11 +1,11 @@
-<?php
-	error_reporting(E_ALL);
-	ini-set('display_errors', 'on');
-
-	$host = 'localhost';
-	$user = 'root';
-	$password = 'root';
-	$dbName = 'test';
+//<?php
+//	error_reporting(E_ALL);
+//	ini-set('display_errors', 'on');
+//
+//	$host = 'localhost';
+//	$user = 'root';
+//	$password = 'root';
+//	$dbName = 'test';
 
 	//$link = mysql_connect($host, $user, $password, $dbName);
 	//mysqli_query($link, "SET NAMES 'utf8'");
@@ -17,7 +17,7 @@
 //
 //		}
 //
-		$title = 'admin main page';
-		$content = '';
+//		$title = 'admin main page';
+//		$content = '';
 
 		include 'layout.php'
